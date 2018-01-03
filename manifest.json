@@ -1,0 +1,12 @@
+{
+  "name": "GitHub Plugin",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "GitHub Plugin to inject btn on pulls page",
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_title": "GitHub Plugin"
+  }
+}
